@@ -1,0 +1,19 @@
+--- a/src/services/resend/templates/journeys/leadNurture-d11-neet.template.html
++++ b/src/services/resend/templates/journeys/leadNurture-d11-neet.template.html
+@@ -1361,6 +1361,15 @@
+ </tr>
+ </table>
+ </div>
++</td>
++</tr>
++</table>
++</td>
++</tr>
++</table>
++</td>
++</tr>
++</table>
+ </body>
+ 
+ </html>
+\ No newline at end of file

@@ -1,0 +1,25 @@
+--- a/src/services/resend/templates/annualUpsell.template.html
++++ b/src/services/resend/templates/annualUpsell.template.html
+@@ -457,9 +457,6 @@
+ <tr>
+ <td>
+ <div style="line-height:24px; height:24px; font-size:24px">&#8202;</div>
+-</td>
+-</tr>
+-</table>
+ </td>
+ </tr>
+ </table>
+@@ -827,12 +824,6 @@
+ </td>
+ </tr>
+ </table>
+-</td>
+-</tr>
+-</table>
+-</td>
+-</tr>
+-</table>
+ </div>
+ </body>
+ 

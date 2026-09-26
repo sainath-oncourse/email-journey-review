@@ -1,0 +1,13 @@
+--- a/src/services/resend/templates/journeys/freeTrial-d3-neet.template.html
++++ b/src/services/resend/templates/journeys/freeTrial-d3-neet.template.html
+@@ -1187,6 +1187,9 @@
+ </tr>
+ </table>
+ </div>
++</td>
++</tr>
++</table>
+ </body>
+ 
+ </html>
+\ No newline at end of file

@@ -1,0 +1,12 @@
+--- a/src/services/resend/templates/journeys/leadNurture-d14-neet.template.html
++++ b/src/services/resend/templates/journeys/leadNurture-d14-neet.template.html
+@@ -1369,9 +1369,6 @@
+ </td>
+ </tr>
+ </table>
+-</td>
+-</tr>
+-</table>
+ </div>
+ </body>
+ 
