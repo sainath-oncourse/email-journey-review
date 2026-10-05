@@ -1,4 +1,3 @@
-# Oncourse email journey review — CFA, CPA, LSAT, bar exam
+# Oncourse email journey review — MCAT and NCLEX-RN
 
-Open `index.html` (or the GitHub Pages link). Self-contained: copy changes per email and course, image edits, an
-Email preview tab, launch notes, and template bug fixes (`bugfix-patches/`, apply to the API repo with `git apply`).
+Open `index.html`. This self-contained site contains only MCAT and NCLEX-RN; select either course in the dropdown. Old course-specific URLs redirect to the same site.
